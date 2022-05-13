@@ -9,8 +9,8 @@ I'm interested in Coding, Brainstorming and make things easier with the help of 
 Kudos for being here! 
 
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![altair1016's github stats](https://github-readme-stats.vercel.app/api?username=altair1016&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![altair1016's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=altair1016&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ### Now Playing 🎧
