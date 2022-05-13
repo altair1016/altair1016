@@ -39,7 +39,7 @@ Kudos for being here!
 ---
 
 <br>
-<a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
+<a><img src="https://img.shields.io/github/followers/altair1016?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=altair1016&color=orange&style=flat-square)
 
