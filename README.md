@@ -11,7 +11,7 @@ Kudos for being here!
 
 
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="http://www.linkedin.com/in/marco-iannella-b345b283" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -30,7 +30,7 @@ Kudos for being here!
   <br>
 
 
-## Some stats about me
+## Some stats about me <img src="https://github.com/Avinash-Gahlowt/Avinash-Gahlowt/blob/main/Developer.gif" height="32px">
 ![altair1016's github stats](https://github-readme-stats.vercel.app/api?username=altair1016&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![altair1016's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=altair1016&layout=compact&langs_count=8&hide_border=true)
 <br />
