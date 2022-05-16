@@ -4,14 +4,18 @@
 Hi there 👋
 <br>
 My name is Marco Iannella
-I am a Computer engineer with discrete experience in programming and tech enthusiast. I'm currently working as a Data Engineer and still countinue studying and loving Computer science. 
+I am a Computer engineer with discrete experience in programming and tech enthusiast. I'm currently working as a Data Engineer and still continue studying and loving Computer science. 
 I'm interested in Coding, Brainstorming and make things easier with the help of technologies. 
 
 Kudos for being here! 
 
 
+## My Languages 🌐
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/it.svg" height="25px" width="25px">      <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/fr.svg" height="25px" width="25px">      <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" height="25px" width="25px">
+
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 <a href="http://www.linkedin.com/in/marco-iannella-b345b283" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -26,7 +30,8 @@ Kudos for being here!
     <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 
-  <br>
+
+ <br>
   <br>
 
 
