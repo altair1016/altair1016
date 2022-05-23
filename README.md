@@ -63,13 +63,6 @@ Kudos for being here!
 ![](https://img.shields.io/badge/MacOS-00CA4E?style=for-the-badge&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Windows-010081?style=for-the-badge&logo=windows&logoColor=white)
  
- ## My DEV playlist 🎧
-
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1133426402)
-<br/>
-
-
  ## My fav hashtags \#
 ![](https://img.shields.io/badge/pylover-5E5C5C?style=for-the-badge&logo=octothorpe&logoColor=white)
 ![](https://img.shields.io/badge/algorithms-5E5C5C?style=for-the-badge&logo=octothorpe&logoColor=white)
