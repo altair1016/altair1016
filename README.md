@@ -72,4 +72,4 @@ Kudos for being here!
 <br><br><br><br>
 <a><img src="https://img.shields.io/github/followers/altair1016?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=altair1016&color=orange&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=altair1016&color=orange&style=flat-square) 
