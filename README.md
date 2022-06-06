@@ -1,4 +1,4 @@
-## Heyyo it's me, Marco! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="10px">
+## Heyyo it's me, Marco! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="25px" width="25px">
 > **“One of the best programming skills you can have is knowing when to walk away for a while.”**
 <br>
 Hi there 👋
